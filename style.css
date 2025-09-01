@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Mono&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lora:ital,wght@0,700;1,700&display=swap");
+
+.font-dm-mono {
+  font-family: "DM Mono", monospace;
+}
+
+.font-lora {
+  font-family: "Lora", serif;
+}
+
+.font-inter {
+  font-family: "Inter", sans-serif;
+}
